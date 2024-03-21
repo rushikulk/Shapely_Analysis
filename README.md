@@ -1,4 +1,3 @@
-# Shapely_Analysis
 # Shapley Analysis with Random Forest on Traffic Accident Severity
 
 ## Introduction
